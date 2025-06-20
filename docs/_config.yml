@@ -28,7 +28,7 @@ twitter_username: inferiorolive_
 github_username:  jadedilin
 
 # Build settings
-theme: jekyll-theme-chirpy
+theme: minima
 plugins:
   - jekyll-feed
 
