@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jade Diana Lin
+title: Jade Lin
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Jade Diana Lin is a world-travelling Rubyist from the United Kingdom. 
+  Jade Lin is a world-travelling Rubyist from the United Kingdom. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jadedilin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  inferiorolive
