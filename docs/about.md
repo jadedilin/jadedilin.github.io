@@ -8,20 +8,18 @@ permalink: /about/
 
 I'm Jade Lin, a novice Rubyist from the UK. 
 
-My daylight work involves freelance work on startup growth projects. I love writing and working with <a href="https://complicated.life/">community</a> and <a href="https://kigumiasia.com/">ethics</a> driven platforms. 
+My daylight work involves freelance work on startup growth projects. I love writing and working with <a href="https://complicated.life/">community</a> and <a href="https://kigumiasia.com/">ethics</a> driven platforms. My content medium of choice is email, though I also work on WordPress.
 
-<strong>Psychology</strong> and <strong>astronomy</strong> interest me to no end, and my aim is to work on a project that allows me to indulge in these subjects.
+Since September 2024 I've been expanding my professional focus to include software programming. This has included:
 
-If you have an idea for such a project, or otherwise just want to say hey, please reach out. 
+* Email webhook implementation in Rails
+* Transactional email development (Auth0, Postmark)
+* Community site maintenance for <a href="https://chicagoruby.org/">ChicagoRuby</a>
 
-<h3>Contact</h3>
-
-xiaoyushan (at) protonmail.com
-
-<a href="https://www.linkedin.com/in/linjade/">LinkedIn</a>
+I am a part of the <a href="https://firstrubyfriend.org/">RubyFriend</a> programme, which empowers junior Rubyists to excel in their learning through mentorship.
 
 <h3>About me</h3>
 
-In my downtime I practice Thai kickboxing, I read voraciously, and like to cook. Exploring food culture and training at a wide variety of martial arts gyms fuels my perpetual travel bug.
+In my downtime I practice Thai kickboxing, I read voraciously, and like to cook. Exploring food culture and training in a wide variety of martial arts gyms fuels my perpetual travel bug.
 
 <img class="jade_lin" src="../assets/photos/jade_lin.jpg">
