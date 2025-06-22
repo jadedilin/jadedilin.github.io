@@ -1,0 +1,10 @@
+---
+---
+
+@import "minima";
+
+.page-content .wrapper {
+  max-width: 600px;      // whatever “narrow” you like
+  margin: 0 auto;        // center the content
+  padding: 0 1rem;       // extra side-padding so lines don’t hug the edge
+}
