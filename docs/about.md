@@ -18,6 +18,8 @@ Since September 2024 I've been expanding my professional focus to include softwa
 
 I am a part of the <a href="https://firstrubyfriend.org/">RubyFriend</a> programme, which empowers junior Rubyists to excel in their learning through mentorship.
 
+<!-- In July 2025 I attended <a href="https://railsconf.org/about#scholars-guides">RailsConf</a> as a scholar, where I presented a mini-project to Ruby Central (you can find my post here) -->
+
 <h3>About me</h3>
 
 In my downtime I practice Thai kickboxing, I read voraciously, and like to cook. Exploring food culture and training in a variety of martial arts gyms fuels my perpetual travel bug.
