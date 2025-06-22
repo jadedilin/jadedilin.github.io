@@ -24,4 +24,8 @@ I am a part of the <a href="https://firstrubyfriend.org/">RubyFriend</a> program
 
 In my downtime I practice Thai kickboxing, I read voraciously, and like to cook. Exploring food culture and training in a variety of martial arts gyms fuels my perpetual travel bug.
 
-<img class="jade_lin" src="../assets/photos/jade_lin.jpg">
+<br>
+
+<div class="jade_lin" data-caption="Berlin 2024">
+  <img width=250px src="../assets/photos/jade_lin.jpg" alt="A polaroid style photo of Jade">
+</div>

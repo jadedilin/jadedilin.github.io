@@ -8,3 +8,34 @@
   margin: 0 auto;        // center the content
   padding: 0 1rem;       // extra side-padding so lines don’t hug the edge
 }
+
+.jade_lin {
+  display: inline-block;               /* shrink-wrap to image */
+  background-color: #fff;              /* bright white frame */
+  padding: 10px 10px 40px;             /* extra bottom padding for Polaroid look */
+  border-radius: 8px;                  /* soft rounded corners */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08); /* gentle, wide shadow */
+  position: relative;                  /* for any caption or pseudo-elements */
+}
+
+.jade_lin img {
+  display: block;                      /* remove inline gaps */
+  max-width: 100%;                     /* responsive */
+  height: auto;
+  border-radius: 4px;                  /* slight rounding on photo edges */
+  object-fit: cover;                   /* crop nicely if needed */
+}
+
+/* Optional: add a caption centered under the photo */
+.jade_lin::after {
+  content: attr(data-caption);
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.85rem;
+  color: #555;
+  white-space: nowrap;
+}
+
