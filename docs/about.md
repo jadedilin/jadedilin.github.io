@@ -23,3 +23,5 @@ xiaoyushan (at) protonmail.com
 <h3>About me</h3>
 
 In my downtime I practice Thai kickboxing, I read voraciously, and like to cook. Exploring food culture and training at a wide variety of martial arts gyms fuels my perpetual travel bug.
+
+<img class="jade_lin" src="../assets/photos/jade_lin.jpg">
