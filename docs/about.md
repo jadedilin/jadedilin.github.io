@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h2>Hey there!</h2>
+<h2>Hey there.</h2>
 
 I'm Jade Lin, a novice Rubyist from the UK. 
 
