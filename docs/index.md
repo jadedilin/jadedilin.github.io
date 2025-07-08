@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+<h1>Welcome!</h1>
+I'm Jade.  
+
+This site was created using Jekyll as part of the Scholars and Guides programme for RailsConf 2025. Find out more about me <a href="/about">here</a>.  
