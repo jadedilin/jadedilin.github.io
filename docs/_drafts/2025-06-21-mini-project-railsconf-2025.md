@@ -50,7 +50,7 @@ The Scholars and Guides Program is a mentorship program for aspiring Rubyists in
 
 
 
-In this post I'll set out to cover my experience at the very last RailsConf as a student of Ruby in the early stages of a career transition. 
+In this post I'll set out to cover my experience at the very last RailsConf as a student of Ruby in the early stages of a career transition. Thank Ruby Central.
 
 My Mini-Project 
 
