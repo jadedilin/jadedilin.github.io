@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Non-Traditional Paths Into Rails Development"
+title:  "Paths Into Rails Development at RailsConf 2025"
 date:   2025-06-21 22:00:12 +0100
 categories: conferences
 author: "Jade"
