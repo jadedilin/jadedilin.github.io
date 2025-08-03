@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paths Into Rails Development at RailsConf 2025"
-date:   2025-08-03 22:00:12 +0100
+date:   2025-08-02 22:00:12 +0100
 categories: conferences
 author: "Jade"
 permalink: "/rails-conf-2025-scholars-guides-mini-project-jade-lin"
