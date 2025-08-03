@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paths Into Rails Development at RailsConf 2025"
-date:   2025-06-21 22:00:12 +0100
+date:   2025-08-03 22:00:12 +0100
 categories: conferences
 author: "Jade"
 permalink: "/rails-conf-2025-scholars-guides-mini-project-jade-lin"
@@ -13,7 +13,7 @@ This article was written about non-traditional paths into Ruby on Rails developm
 
 <br>
 
-## Quick backstory 
+## My backstory 
 
 I've always admired the creativity and technical skill of the developers I've encountered through my love for physics, science fiction, and games. This admiration deepened when I joined a remote-first tech startup and began meeting talented developers worldwide on my travels. Last year, driven by curiosity and the practical benefit of improving the SaaS product I work with daily, I decided to dive into learning Ruby on Rails.
 
@@ -23,7 +23,7 @@ Seeking a community that aligned with my journey, I joined [WNB.rb](http://WNB.r
 
 ## On Scholars and Guides  
 
-The Scholars and Guides Program is a mentorship program for aspiring Rubyists interested in learning more about the Ruby programming language, expanding their professional toolkits, and having help navigating the Ruby Central conferences, RubyConf, and RailsConf. As part of the program, we were encouraged to participate in a project that built on our skills as developers. The program is friendly to all skill levels and is an approachable 'in' to software community.
+The Scholars and Guides Program is a mentorship program for aspiring Rubyists interested in learning more about the Ruby programming language, expanding their professional toolkits, and having help navigating the Ruby Central conferences, RubyConf, and RailsConf. As part of the program we participated in a project that built on our skills as developers. The program is friendly to all skill levels.
 
 For my own project, I simulated a working environment with my project guide Michelle Yuen, who assigned issues in the [ChicagoRuby](https://chicagoruby.org) repository to me. It was invaluable for learning version control, deployment workflows, and collaboration, mimicking real-world professional development processes in a low-stakes environment.
 
@@ -43,7 +43,7 @@ Ahead of the conference, my mentor and first [Ruby Friend](https://firstrubyfrie
 
 <br>
 
-## On the winding road to code 
+## The winding road to code 
 
 I wanted to approach RailsConf as a way to learn about nontypical routes into software development and to solidify my learning direction. As it turns out, about a third of people I met had a self-made story of transitioning from one career to a Rails engineer job, completely invalidating my perception of career transitions being nontypical. Here are those stories as a helpful reminder of creativity, grit, and perseverance.
 
@@ -79,21 +79,14 @@ Learnings from a panel between Rails community leaders, who shared their varied 
 Of all said at the conference, that sentence left the most impact. It captured exactly why I attended RailsConf: to push past hesitation and embrace new paths in tech. While the future of software development might feel uncertain, the stories I heard reassured me that tech has always been about adaptability, creativity, and continuous learning. The best way forward is simply to embrace the journey and step into opportunities as they arise. It's an exciting time to be entering this space.
 
 <br>
-## My genesis story…?  
+
+## My next steps 
 
 Having a busy and fulfilling contract in the SaaS I work at presently means I’ll keep honing soft‑skills for tech. I’ll continue to actively contribute to open source (contributing data to [rubyevents.org](http://rubyevents.org) is next), continue a personal kickboxing gym catalogue project, and take on my first paid freelance project.
 
 Above all through RailsConf I confirmed that across all tech disciplines, supporting communities is fun. From maintaining local meetup group sites to contributing data to even larger open source projects, my own work will invariably continue to revolve around this. 
 
 Equipped with a love for people and technology, an epic support network, and several ways to contribute to existing code bases, I begin my story around now. Watch this space. 
-
-<br>
-
----
-<br>
-<br>
-
-Thanks to Gary, John, and Mina and fellow scholars for the amazing program. Guides Michelle, Steven, and Alex: for being so fun and welcoming and for making my first trip to the USA amazing. Thank you to Ruby Central for having me as a scholar. 
 
 <br>
 
