@@ -7,11 +7,17 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+    <main id="page" class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
+
+    {%- if page.layout == "home" %}
+    <link rel="stylesheet" href="{{ "/portal/portal.css" | relative_url }}">
+    <button class="portal-btn" type="button" aria-label="Open the portal" aria-expanded="false"><canvas width="16" height="16" aria-hidden="true"></canvas></button>
+    <script type="module" src="{{ "/portal/button.js" | relative_url }}"></script>
+    {%- endif %}
 
     {%- include footer.html -%}
 
